@@ -1,0 +1,2 @@
+# useGit
+first time using
